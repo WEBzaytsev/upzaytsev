@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 949,
-    "timeWeek": 949,
-    "timeMonth": 949,
-    "timeYear": 949,
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/getcannab.com",
     "slug": "get-cannab",
     "status": "down",
-    "uptime": "7.25%",
-    "uptimeDay": "7.25%",
-    "uptimeWeek": "7.25%",
-    "uptimeMonth": "7.25%",
-    "uptimeYear": "7.25%",
-    "time": 35,
-    "timeDay": 35,
-    "timeWeek": 35,
-    "timeMonth": 35,
-    "timeYear": 35,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {
-      "2022-06-02": 0
+      "2022-06-02": 68
     }
   }
 ]
