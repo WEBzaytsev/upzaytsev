@@ -7,7 +7,15 @@ sites:
     url: https://webzaytsev.ru
   - name: GetCannab
     url: https://getcannab.com
-
+  - name: Guru.study
+    url: https://guru.study
+  - name: Media ZZAPUSK
+    url: https://media.zzapusk.com  
+  - name: CondiPRO
+    url: https://bestsurprise.ru
+  - name: Soken
+    url: https://soken.io
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
