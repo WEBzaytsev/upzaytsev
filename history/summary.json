@@ -4,19 +4,19 @@
     "url": "https://webzaytsev.ru",
     "icon": "https://favicons.githubusercontent.com/webzaytsev.ru",
     "slug": "web-zaytsev",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 544,
-    "timeDay": 458,
-    "timeWeek": 514,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 539,
+    "timeDay": 430,
+    "timeWeek": 500,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 44
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/media.zzapusk.com",
     "slug": "media-zzapusk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 3398,
     "timeDay": 3377,
     "timeWeek": 3189,
     "timeMonth": 3398,
     "timeYear": 3398,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 43
     }
   },
   {
