@@ -10,11 +10,11 @@
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 529,
-    "timeDay": 851,
-    "timeWeek": 473,
-    "timeMonth": 529,
-    "timeYear": 529,
+    "time": 527,
+    "timeDay": 468,
+    "timeWeek": 474,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2022-06-21": 44
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/getcannab.com",
     "slug": "get-cannab",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
-    "time": 932,
-    "timeDay": 1550,
-    "timeWeek": 1461,
-    "timeMonth": 932,
-    "timeYear": 932,
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 946,
+    "timeDay": 1448,
+    "timeWeek": 1465,
+    "timeMonth": 946,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2022-06-02": 547
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 1141,
-    "timeWeek": 830,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "time": 858,
+    "timeDay": 929,
+    "timeWeek": 833,
+    "timeMonth": 858,
+    "timeYear": 858,
     "dailyMinutesDown": {}
   },
   {
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 3477,
-    "timeDay": 3434,
-    "timeWeek": 3661,
+    "timeDay": 3477,
+    "timeWeek": 3674,
     "timeMonth": 3477,
     "timeYear": 3477,
     "dailyMinutesDown": {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1366,
-    "timeDay": 1559,
-    "timeWeek": 1426,
-    "timeMonth": 1366,
-    "timeYear": 1366,
+    "time": 1428,
+    "timeDay": 3052,
+    "timeWeek": 1657,
+    "timeMonth": 1428,
+    "timeYear": 1428,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 804,
-    "timeWeek": 620,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "time": 659,
+    "timeDay": 711,
+    "timeWeek": 622,
+    "timeMonth": 659,
+    "timeYear": 659,
     "dailyMinutesDown": {}
   }
 ]
