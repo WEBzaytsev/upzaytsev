@@ -4,18 +4,19 @@
     "url": "https://webzaytsev.ru",
     "icon": "https://favicons.githubusercontent.com/webzaytsev.ru",
     "slug": "web-zaytsev",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.88%",
     "time": 480,
     "timeDay": 577,
     "timeWeek": 463,
     "timeMonth": 445,
     "timeYear": 480,
     "dailyMinutesDown": {
+      "2022-07-12": 1,
       "2022-06-30": 21,
       "2022-06-21": 44
     }
@@ -25,10 +26,10 @@
     "url": "https://getcannab.com",
     "icon": "https://favicons.githubusercontent.com/getcannab.com",
     "slug": "get-cannab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 989,
@@ -37,6 +38,7 @@
     "timeMonth": 1255,
     "timeYear": 989,
     "dailyMinutesDown": {
+      "2022-07-12": 1,
       "2022-06-02": 547
     }
   },
@@ -45,9 +47,9 @@
     "url": "https://guru.study",
     "icon": "https://favicons.githubusercontent.com/guru.study",
     "slug": "guru-study",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +58,9 @@
     "timeWeek": 806,
     "timeMonth": 816,
     "timeYear": 830,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-12": 0
+    }
   },
   {
     "name": "Media ZZAPUSK",
